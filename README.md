@@ -1,4 +1,4 @@
-# AI Movie Recommendation Bot
+# Movie Recommendation Bot
 
 🎬 Telegram bot that recommends movies based on genres, manages Favorites and Watched movies, and allows rating watched movies from 1 to 5 stars.
 
